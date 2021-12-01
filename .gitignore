@@ -1,0 +1,5 @@
+.idea
+.vscode
+/docker/storage/pgsql
+/docker/storage/redis
+/fastcrud/vendor
